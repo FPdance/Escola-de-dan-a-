@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+ 
+ 
+p{color:rgb(255, 22, 100);
+font-family:'Open sans',sans-serif ;
+font-size: 20px;
+}
+h1{color:rgb(255, 22, 100);
+font-family:'Open sans',sans-serif ;
+font-size: 20px;
+}
+
+h2{color:rgb(255, 22, 100);
+font-family:'Open sans',sans-serif ;
+font-size: 20px;
+    }
+
+
+#header-btn{
+font-size: 20 px;
+color: rgb(255, 22, 100);;
+font-size: 15px;
+border-radius:20px;
+text-decoration: none;
+display:inline-block;
+width:150px;
+height:25px;
+padding-top:8px;
+text-align:center;    
+}
+.header-container{
+text-align: center;
+position: absolute;
+top: 300px;
+display: block;
+width: 100%;
+}
+.card-container{
+    margin:50px;
+}
+
+.testemonial-container{
+    background-color: rgb(212, 54, 85);
+    height: 200px;
+    width: 100%;
+}
+
+.header-formulario{
+
+font-size: 20 px;
+color: rgb(0, 0, 0);
+font-family: 'Open sans',sans-serif ;
+}   
+
+.header-contactos{
+    font-size: 20 px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    border-radius:20px;
+    text-decoration: none;
+    display:inline-block;
+    width:150px;
+    height:25px;
+    padding-top:8px;
+    text-align:center;    
+    }
+    h4{color:rgb(0, 0, 0);
+        font-family:'Open sans',sans-serif ;
+        font-size: 20px;
+        }
+.btn-primary{
+  background-color: rgb(255, 55, 138);
+  border: none;
+}
